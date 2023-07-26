@@ -1,6 +1,6 @@
 ### Olá mundo! Meu nome é Gustavo Lennyng.
 
-## Tecnologias que estou aprendendo
+## Minhas principais tecnologias
 
 <div style="display: inline_block"><br/>
 
