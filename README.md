@@ -1,4 +1,4 @@
-### Olá mundo! Meu nome é Gustavo Lennyng.
+
 
 ## Minhas principais tecnologias
 
