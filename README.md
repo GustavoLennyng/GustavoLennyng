@@ -19,6 +19,4 @@
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoLennyng&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=f0f8ff&text_color=FFF)
-## My projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoLennyng&repo=task-forge-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=f0f8ff&text_color=FFF)](https://github.com/vitorfigueired0/task-forge-backend)
 
