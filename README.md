@@ -1,4 +1,4 @@
-# $ whoami
+
  <p align="justify">Me chamo Gustavo Lennyng, sou um Desenvolvedor Back-end com experiência em APIs RESTful, DevOps e SQL. Estou sempre buscando expandir minha pilha de conhecimento e enfrentando novos desafios. Minha paixão pela codificação é o motivo da minha busca de aprender e melhorar constantemente, tornando-me um profissional valioso para qualquer equipe.</p>
  <br>
 
