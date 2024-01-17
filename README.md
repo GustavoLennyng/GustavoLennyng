@@ -9,17 +9,18 @@ Desenvolvedor Back-end apaixonado por criar soluções eficientes e escaláveis.
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/gustavo_lennyng/)
 
 ## Minhas Stacks
-[![Python](https://img.shields.io/badge/Python-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)](link_para_documentacao_python)
-[![Pandas](https://img.shields.io/badge/Pandas-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)](link_para_documentacao_pandas)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)](link_para_documentacao_javascript)
-[![React](https://img.shields.io/badge/React-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)](link_para_documentacao_react)
-[![Node](https://img.shields.io/badge/Node-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)](link_para_documentacao_node)
-[![Postgres](https://img.shields.io/badge/postgres-0d0a00.svg?style=for-the-badge&logo=postgresql&logoColor=white)](link_para_documentacao_postgres)
-[![Linux](https://img.shields.io/badge/Linux-0d0a00?style=for-the-badge&logo=linux&logoColor=white)](link_para_documentacao_linux)
-[![MySQL](https://img.shields.io/badge/mysql-0d0a00.svg?style=for-the-badge&logo=mysql&logoColor=white)](link_para_documentacao_mysql)
-[![Postman](https://img.shields.io/badge/Postman-0d0a00?style=for-the-badge&logo=postman&logoColor=white)](link_para_documentacao_postman)
+![Python](https://img.shields.io/badge/Python-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0d0a00?style=for-the-badge&logo=pandas&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0a00?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-0d0a00?style=for-the-badge&logo=react&logoColor=white)
+![Node](https://img.shields.io/badge/Node-0d0a00?style=for-the-badge&logo=node&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-0d0a00.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d0a00?style=for-the-badge&logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-0d0a00.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0d0a00?style=for-the-badge&logo=postman&logoColor=white)
 [![HTML5](https://img.shields.io/badge/HTML5-0d0a00?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-0d0a00?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 ## GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoLennyng&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=f0f8ff&text_color=FFF)
