@@ -9,6 +9,10 @@
 
 ## Minhas Stacks
 ![Python](https://img.shields.io/badge/Python-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node](https://img.shields.io/badge/Node-0d0a00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-0d0a00.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0d0a00?style=for-the-badge&logo=linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-0d0a00.svg?style=for-the-badge&logo=mysql&logoColor=white)
