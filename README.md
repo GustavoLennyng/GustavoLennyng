@@ -1,4 +1,4 @@
-<p align="justify">Sou um desenvolvedor full stack, especializado em Node.js e Python, com conhecimentos em bancos de dados SQL e NoSQL. Tenho experiência em tecnologias front-end, incluindo React, HTML, CSS e JavaScript, garantindo interfaces responsivas. Além disso, trabalho com integração de APIs externas utilizando Node.js, proporcionando uma comunicação fluida entre os diferentes componentes de um sistema.
+<p align="justify">Sou um desenvolvedor full stack, especializado em Node.js e Python, com conhecimentos em bancos de dados SQL e NoSQL. Tenho experiência em tecnologias front-end, incluindo React, HTML, CSS e JavaScript.
 </p>
  <br>
 
